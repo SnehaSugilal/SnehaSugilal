@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Network Engineer sharing about my journey and learnings in the field <br/>
 👩🏻‍🎓 Master's in [Wireless & Network Engineering, ECE](https://ece.northeastern.edu/academics/graduate-studies/ms-wne/) at [Northeastern University, Boston](https://www.northeastern.edu/).<br/>
-🛠️ 3 years in production IP/MPLS networking at [Burns & McDonnell India] (https://www.burnsmcd.com/locations/mumbai)
+🛠️ 3 years in production IP/MPLS networking at ([Burns & McDonnell India](https://www.burnsmcd.com/locations/mumbai))
 🔎How to Find me: [Sneha's LinkedIn](https://www.linkedin.com/in/sneha-sugilal/).<br/>
 📫How to Reach me: sneha.sugilals@gmail.com<br/>
 🤝Let's connect and collaborate!<br/>
